@@ -1,0 +1,30 @@
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Infrastructure.MssqlDbService\bin\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.deps.json
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Infrastructure.MssqlDbService\bin\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.dll
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Infrastructure.MssqlDbService\obj\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.AssemblyInfoInputs.cache
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Infrastructure.MssqlDbService\obj\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.AssemblyInfo.cs
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Infrastructure.MssqlDbService\obj\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.csprojAssemblyReference.cache
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Infrastructure.MssqlDbService\bin\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.runtimeconfig.json
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Infrastructure.MssqlDbService\bin\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.runtimeconfig.dev.json
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Infrastructure.MssqlDbService\obj\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.genruntimeconfig.cache
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Infrastructure.MssqlDbService\bin\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.pdb
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Infrastructure.MssqlDbService\bin\Debug\netcoreapp3.1\Onion.Domain.dll
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Infrastructure.MssqlDbService\bin\Debug\netcoreapp3.1\Onion.Domain.pdb
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Infrastructure.MssqlDbService\obj\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.csproj.CoreCompileInputs.cache
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Infrastructure.MssqlDbService\obj\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.csproj.CopyComplete
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Infrastructure.MssqlDbService\obj\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.dll
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Infrastructure.MssqlDbService\obj\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.pdb
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Infrastructure.MssqlDbService\bin\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.deps.json
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Infrastructure.MssqlDbService\bin\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.runtimeconfig.json
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Infrastructure.MssqlDbService\bin\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.runtimeconfig.dev.json
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Infrastructure.MssqlDbService\bin\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.dll
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Infrastructure.MssqlDbService\bin\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.pdb
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Infrastructure.MssqlDbService\bin\Debug\netcoreapp3.1\Onion.Domain.dll
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Infrastructure.MssqlDbService\bin\Debug\netcoreapp3.1\Onion.Domain.pdb
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Infrastructure.MssqlDbService\obj\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.csprojAssemblyReference.cache
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Infrastructure.MssqlDbService\obj\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Infrastructure.MssqlDbService\obj\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Infrastructure.MssqlDbService\obj\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Infrastructure.MssqlDbService\obj\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.csproj.CopyComplete
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Infrastructure.MssqlDbService\obj\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.dll
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Infrastructure.MssqlDbService\obj\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.pdb
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Infrastructure.MssqlDbService\obj\Debug\netcoreapp3.1\Onion.Infrastructure.MssqlDbService.genruntimeconfig.cache

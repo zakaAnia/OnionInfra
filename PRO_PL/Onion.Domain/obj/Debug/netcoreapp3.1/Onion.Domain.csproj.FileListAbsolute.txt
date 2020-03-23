@@ -1,0 +1,24 @@
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Domain\bin\Debug\netcoreapp3.1\Onion.Domain.deps.json
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Domain\bin\Debug\netcoreapp3.1\Onion.Domain.dll
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Domain\bin\Debug\netcoreapp3.1\Onion.Domain.pdb
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Domain\obj\Debug\netcoreapp3.1\Onion.Domain.csprojAssemblyReference.cache
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Domain\obj\Debug\netcoreapp3.1\Onion.Domain.AssemblyInfoInputs.cache
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Domain\obj\Debug\netcoreapp3.1\Onion.Domain.AssemblyInfo.cs
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Domain\obj\Debug\netcoreapp3.1\Onion.Domain.dll
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Domain\obj\Debug\netcoreapp3.1\Onion.Domain.pdb
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Domain\bin\Debug\netcoreapp3.1\Onion.Domain.runtimeconfig.json
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Domain\bin\Debug\netcoreapp3.1\Onion.Domain.runtimeconfig.dev.json
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Domain\obj\Debug\netcoreapp3.1\Onion.Domain.genruntimeconfig.cache
+C:\Users\Katarzyna\Desktop\Pro2_Onion\PRO_PL\Onion.Domain\obj\Debug\netcoreapp3.1\Onion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Domain\bin\Debug\netcoreapp3.1\Onion.Domain.deps.json
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Domain\bin\Debug\netcoreapp3.1\Onion.Domain.runtimeconfig.json
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Domain\bin\Debug\netcoreapp3.1\Onion.Domain.runtimeconfig.dev.json
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Domain\bin\Debug\netcoreapp3.1\Onion.Domain.dll
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Domain\bin\Debug\netcoreapp3.1\Onion.Domain.pdb
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Domain\obj\Debug\netcoreapp3.1\Onion.Domain.csprojAssemblyReference.cache
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Domain\obj\Debug\netcoreapp3.1\Onion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Domain\obj\Debug\netcoreapp3.1\Onion.Domain.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Domain\obj\Debug\netcoreapp3.1\Onion.Domain.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Domain\obj\Debug\netcoreapp3.1\Onion.Domain.dll
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Domain\obj\Debug\netcoreapp3.1\Onion.Domain.pdb
+C:\Users\Anna\Desktop\Inf rok3\PRO2\PRO_PL\PRO_PL\Onion.Domain\obj\Debug\netcoreapp3.1\Onion.Domain.genruntimeconfig.cache
